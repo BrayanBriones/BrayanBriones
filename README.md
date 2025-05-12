@@ -5,11 +5,8 @@
 ---
 
 ## 🚀 Sobre mí
-
-- 🎓 Formación: [Tu carrera o formación académica]
-- 💼 Experiencia: [Tu rol actual o experiencia relevante]
-- 🌱 Actualmente aprendiendo: [Tecnologías o temas que estás aprendiendo]
-- 💬 Me interesa conversar sobre: [Temas de interés profesional o técnico]
+- 💼 Experiencia: Estudiante con pequeños proyectos en Java.
+- 🌱 Actualmente aprendiendo: Ingeniera en Computacion de ESPOL.
 
 ---
 
@@ -26,12 +23,10 @@
 ## 👨‍💻 Conocimientos en Programación
 
 - Programación orientada a objetos (POO)
-- Estructuras de datos y algoritmos
+- Estructuras de datos
 - Desarrollo web (frontend y backend)
-- APIs REST
-- Bases de datos SQL y NoSQL
+- Bases de datos SQL
 - Control de versiones con Git
-- Pruebas automatizadas y depuración
 - Buenas prácticas y patrones de diseño
  📱 [Nombre del Proyecto 2](URL_del_proyecto)
 - **Descripción:** Breve descripción del proyecto.
@@ -47,21 +42,15 @@
 - Desarrollo web y móvil
 - Inteligencia artificial y machine learning
 - Ciberseguridad
-- Ciencia de datos
-- Automatización de tareas
-- Contribuciones a código abierto
 
 ---
 
 ## 📫 Contacto
 
-- 📧 Email: [tuemail@ejemplo.com]
+- 📧 Email: [brayanbriones2004@gmail.com]
 - 💼 LinkedIn: [Tu perfil](https://www.linkedin.com/in/tuusuario/)
 - 🌐 Portafolio web: [tuwebsite.com](https://tuwebsite.com)
 
----
-
-⭐ ¡Gracias por visitar mi perfil! Si te interesa colaborar o simplemente conectar, ¡no dudes en escribirme!
 ---
 
 ## 📂 Proyectos Destacados

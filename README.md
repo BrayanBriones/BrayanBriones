@@ -14,7 +14,7 @@
 
 | Lenguajes | Frameworks & Librerías | Herramientas |
 |----------|-------------------------|--------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white. | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white. |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Apache NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
@@ -48,7 +48,7 @@
 
 ### 🔧 [TickTack AI Game](https://github.com/AnthonyyHL/SinglePlayer-TicTacToe.git)
 - **Descripción:** Juego de Tic-Tac-Toe (Tres en raya) que utiliza árboles para definir el nivel de dificultad de la inteligencia artificial.
-- **Tecnologías:**
+- **Tecnologías:**  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
   ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -57,7 +57,7 @@
 
 ### 🔧 [Simulación de Compra de Helado](https://github.com/Cofcarnage/POO4_PROY2P_BRIONES_CASTILLO)
 - **Descripción:** Simulación de la interfaz funcional del proceso de compra en línea de un helado, implementando el paradigma de Programación Orientada a Objetos (POO).
-- **Tecnologías:**
+- **Tecnologías:**  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
   ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)

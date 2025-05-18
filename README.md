@@ -71,4 +71,3 @@
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 - **Rol:** Encargado del diseño de interfaz de usuario y creación de arte en estilo *pixel art* para mejorar la estética visual del juego.
 
-###

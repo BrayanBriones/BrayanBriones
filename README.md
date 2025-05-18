@@ -14,9 +14,12 @@
 
 | Lenguajes | Frameworks & Librerías | Herramientas |
 |----------|-------------------------|--------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+ | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Apache NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
+ | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+ | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
 
@@ -24,23 +27,16 @@
 
 - Programación orientada a objetos (POO)
 - Estructuras de datos
-- Desarrollo web (frontend y backend)
 - Bases de datos SQL
 - Control de versiones con Git
 - Buenas prácticas y patrones de diseño
- 📱 [Nombre del Proyecto 2](URL_del_proyecto)
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías:** Lista de tecnologías utilizadas.
-- **Rol:** Tu participación en el proyecto.
-
-*(Agrega más proyectos si lo deseas)*
 
 ---
 
 ## 📚 Disciplinas e Intereses
 
 - Desarrollo web y móvil
-- Inteligencia artificial y machine learning
+- UX/UI
 - Ciberseguridad
 
 ---
@@ -48,16 +44,25 @@
 ## 📫 Contacto
 
 - 📧 Email: [brayanbriones2004@gmail.com]
-- 💼 LinkedIn: [Tu perfil](https://www.linkedin.com/in/tuusuario/)
-- 🌐 Portafolio web: [tuwebsite.com](https://tuwebsite.com)
 
 ---
 
 ## 📂 Proyectos Destacados
 
-### 🔧 [Nombre del Proyecto 1](URL_del_proyecto)
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías:** Lista de tecnologías utilizadas.
-- **Rol:** Tu participación en el proyecto.
+### 🔧 [TickTack AI Game](https://github.com/AnthonyyHL/SinglePlayer-TicTacToe.git)
+- **Descripción:** Juego de Tic-Tac-Toe (Tres en raya) que utiliza árboles para definir el nivel de dificultad de la inteligencia artificial.
+- **Tecnologías:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
+  ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- **Rol:** Desarrollador de apoyo: Correcion de errores de la lógica del juego, correcion de la estructura de árboles para IA, e integración del proyecto en NetBeans con interfaz.
+
+
+### 🔧 [Simulación de Compra de Helado](https://github.com/Cofcarnage/POO4_PROY2P_BRIONES_CASTILLO)
+- **Descripción:** Simulación de la interfaz funcional del proceso de compra en línea de un helado, implementando el paradigma de Programación Orientada a Objetos (POO).
+- **Tecnologías:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
+  ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- **Rol:** Desarrollador principal: implementación de la lógica de negocio, diseño orientado a objetos y desarrollo en NetBeans.
+
 
 ###
